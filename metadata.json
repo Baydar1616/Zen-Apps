@@ -1,0 +1,6 @@
+{
+  "name": "Pond Reminders",
+  "description": "A peaceful, immersive reminder app with side-view fish pond animations and calming ambient sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
